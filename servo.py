@@ -66,10 +66,10 @@ class Servo:
         This helps verify that the servo is working as expected.
         """
         print("Running basic test sequence...")
-        speeds = [-1, -0.5, 0, 0.5, 1]  # Full reverse, half reverse, stop, half forward, full forward
+        speeds = [1, 0.5, 0, -0.5, -1]  # Full reverse, half reverse, stop, half forward, full forward
         for speed in speeds:
             print(f"Running at speed {speed}...")
-            self.run_continuously(speed, duration=2)
+            self.run_continuously(speed, duration=0.5)
         print("Test sequence complete.")
 
 
@@ -80,7 +80,7 @@ if __name__ == "__main__":
 
     try:
         # Run the test sequence to verify functionality
-        # servo.run_continuously(speed=1, duration=5)
+        # servo.run_continuously(speed=-1, duration=2)
         servo.test()
 
         # Optionally, run the servo at specific speeds

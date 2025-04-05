@@ -15,6 +15,6 @@ else:
     if os.path.exists(env_path):
         print("Activating virtual environment...")
         # Run the shell and source the activate script using bash
-        subprocess.run(['bash', '-i', '-c', 'source env/bin/activate && python Documents/sensor.py'], shell=False)
+        subprocess.run(['bash', '-i', '-c', 'source env/bin/activate && python sli/sensor.py'], shell=False)
     else:
         print("Virtual environment not found. Please create one.")

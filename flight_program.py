@@ -9,11 +9,12 @@ import logging
 from datetime import datetime
 
 displacement_target = 0.1
-collection_period = 3
-ascent_Trigger = False
-descent_Trigger = False
+collection_period = 2
+collection_range_maximum = 1
+collection_range_minimum = 0.1
 plateau_count = 0
 plateau_threshold = 3
+triggered = False
 
 # Global objects for IMU and Sensor
 imu = BNO08XSensor()  # Instantiate IMU sensor
@@ -22,7 +23,7 @@ servo = Servo(pin=18)
 solenoid = SolenoidController(pin=4)
 
 # Ensure the 'logs' directory exists
-log_directory = 'Documents/logs'
+log_directory = 'sli/logs'
 if not os.path.exists(log_directory):
     os.makedirs(log_directory)
 
@@ -45,53 +46,43 @@ def log_telemetry():
 
 def poll():
 
-    global plateau_count, plateau_threshold, displacement_target, collection_period, ascent_Trigger
+    global plateau_count, plateau_threshold, displacement_target, collection_period, collection_range_maximum, collection_range_minimum, triggered
 
     if plateau_count >= plateau_threshold:
-        ascent_Trigger = False
         sample()
-        return True
+        triggered = True
 
-    if ascent_Trigger and sensor.calculate_displacement() < displacement_target:
+    if sensor.calculate_displacement() <= collection_range_maximum and sensor.calculate_displacement() >= collection_range_maximum and (not triggered):
         plateau_count = plateau_count + 1
-        logging.info(f"Plateau Count: {plateau_count}")
-        return False
+        logging.info("Plateau Count: {plateau_count}")
     else:
         plateau_count = 0
-
-    
-    if sensor.calculate_displacement() > displacement_target and (not ascent_Trigger):
-        ascent_Trigger = True
-        logging.info(f"Ascent Triggered: {ascent_Trigger}")
-        return False
-    
-    return False
 
 
 def sample():
     logging.info("--------------Sampling Start--------------")
-    # solenoid.activate()
+    solenoid.activate()
     servo.run_continuously(speed=1, duration=collection_period)
-    # solenoid.deactivate()
+    solenoid.deactivate()
     logging.info("--------------Sampling End--------------")
 
 
-def sequential_execution:
+def sequential_execution():
     logging.info("*** Sequential Execution ***")
     print("Starting telemetry logging...")
-        solenoid.deactivate()
-        servo.set_speed(0)
+    solenoid.deactivate()
+    servo.set_speed(0)
 
         # Run a continuous loop to log both IMU and sensor data
-        while True:
+    while True:
             # Log both IMU and sensor telemetry data
-            log_telemetry()
-            poll()
+        log_telemetry()
+        poll()
             
-            time.sleep(0.5)  # Wait before reading again
-        sample()
+        time.sleep(0.5)  # Wait before reading again
+        #sample()
 
-def parallel_execution:
+def parallel_execution():
     logging.info("*** Parallel Execution ***")
     solenoid.deactivate()
     servo.set_speed(0)
