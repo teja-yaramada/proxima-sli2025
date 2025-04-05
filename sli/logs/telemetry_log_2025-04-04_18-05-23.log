@@ -1,0 +1,4 @@
+2025-04-04 18:05:23,242 - *** Sequential Execution ***
+2025-04-04 18:05:23,253 - IMU Telemetry: Acceleration: X: -0.086 Y: -9.934 Z: 0.137 m/s², Gyroscope: X: 0.002 Y: -0.002 Z: 0.000 rad/s, Magnetometer: X: -29.750 Y: -4.188 Z: 36.750 uT
+2025-04-04 18:05:23,253 - Sensor Telemetry: Temperature: 32.43 C, Humidity: 30.58 %, Pressure: 1006.14 hPa, Gas Resistance: 9641.00 ohms, Altitude: 59.37 meters, Displacment: 0.00 meters
+2025-04-04 18:05:23,254 - -----------------------------------------------------------------------------------------------

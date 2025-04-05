@@ -1,0 +1,139 @@
+2025-04-04 18:57:27,460 - *** Sequential Execution ***
+2025-04-04 18:57:27,471 - IMU Telemetry: Acceleration: X: -0.125 Y: -9.934 Z: 0.098 m/s², Gyroscope: X: 0.002 Y: -0.002 Z: 0.000 rad/s, Magnetometer: X: -31.375 Y: -6.188 Z: 36.750 uT
+2025-04-04 18:57:27,471 - Sensor Telemetry: Temperature: 31.14 C, Humidity: 32.31 %, Pressure: 1006.57 hPa, Gas Resistance: 24390.00 ohms, Altitude: 55.75 meters, Displacment: 0.00 meters
+2025-04-04 18:57:27,472 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:28,178 - IMU Telemetry: Acceleration: X: -0.125 Y: -9.934 Z: 0.098 m/s², Gyroscope: X: 0.002 Y: 0.000 Z: 0.000 rad/s, Magnetometer: X: -28.062 Y: 16.750 Z: 28.312 uT
+2025-04-04 18:57:28,179 - Sensor Telemetry: Temperature: 31.19 C, Humidity: 32.33 %, Pressure: 1006.57 hPa, Gas Resistance: 6694.00 ohms, Altitude: 55.76 meters, Displacment: 0.02 meters
+2025-04-04 18:57:28,179 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:28,881 - IMU Telemetry: Acceleration: X: -0.086 Y: -9.934 Z: 0.098 m/s², Gyroscope: X: 0.000 Y: 0.000 Z: 0.000 rad/s, Magnetometer: X: -28.375 Y: 16.000 Z: 30.125 uT
+2025-04-04 18:57:28,882 - Sensor Telemetry: Temperature: 31.29 C, Humidity: 32.28 %, Pressure: 1006.57 hPa, Gas Resistance: 9711.00 ohms, Altitude: 55.72 meters, Displacment: -0.03 meters
+2025-04-04 18:57:28,882 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:29,582 - IMU Telemetry: Acceleration: X: -0.125 Y: -9.934 Z: 0.098 m/s², Gyroscope: X: 0.000 Y: 0.000 Z: 0.000 rad/s, Magnetometer: X: -28.188 Y: 16.062 Z: 30.625 uT
+2025-04-04 18:57:29,582 - Sensor Telemetry: Temperature: 31.40 C, Humidity: 32.21 %, Pressure: 1006.57 hPa, Gas Resistance: 12872.00 ohms, Altitude: 55.78 meters, Displacment: 0.04 meters
+2025-04-04 18:57:29,582 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:30,283 - IMU Telemetry: Acceleration: X: -0.125 Y: -9.934 Z: 0.098 m/s², Gyroscope: X: 0.002 Y: 0.002 Z: 0.000 rad/s, Magnetometer: X: -28.875 Y: 15.875 Z: 31.250 uT
+2025-04-04 18:57:30,283 - Sensor Telemetry: Temperature: 31.49 C, Humidity: 32.09 %, Pressure: 1006.57 hPa, Gas Resistance: 15377.00 ohms, Altitude: 55.79 meters, Displacment: 0.04 meters
+2025-04-04 18:57:30,283 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:30,990 - IMU Telemetry: Acceleration: X: -0.125 Y: -9.934 Z: 0.098 m/s², Gyroscope: X: 0.000 Y: 0.000 Z: 0.000 rad/s, Magnetometer: X: -27.750 Y: 15.875 Z: 29.500 uT
+2025-04-04 18:57:30,991 - Sensor Telemetry: Temperature: 31.56 C, Humidity: 31.98 %, Pressure: 1006.57 hPa, Gas Resistance: 17452.00 ohms, Altitude: 55.78 meters, Displacment: 0.03 meters
+2025-04-04 18:57:30,991 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:31,696 - IMU Telemetry: Acceleration: X: -0.125 Y: -9.934 Z: 0.098 m/s², Gyroscope: X: 0.000 Y: 0.000 Z: 0.000 rad/s, Magnetometer: X: -29.000 Y: 15.000 Z: 30.875 uT
+2025-04-04 18:57:31,697 - Sensor Telemetry: Temperature: 31.63 C, Humidity: 31.87 %, Pressure: 1006.57 hPa, Gas Resistance: 19024.00 ohms, Altitude: 55.79 meters, Displacment: 0.04 meters
+2025-04-04 18:57:31,697 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:32,408 - IMU Telemetry: Acceleration: X: -0.125 Y: -9.934 Z: 0.098 m/s², Gyroscope: X: 0.000 Y: 0.000 Z: 0.000 rad/s, Magnetometer: X: -27.875 Y: 16.125 Z: 30.562 uT
+2025-04-04 18:57:32,408 - Sensor Telemetry: Temperature: 31.68 C, Humidity: 31.77 %, Pressure: 1006.56 hPa, Gas Resistance: 20311.00 ohms, Altitude: 55.80 meters, Displacment: 0.06 meters
+2025-04-04 18:57:32,409 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:33,116 - IMU Telemetry: Acceleration: X: -0.125 Y: -9.934 Z: 0.137 m/s², Gyroscope: X: 0.000 Y: 0.000 Z: 0.000 rad/s, Magnetometer: X: -28.375 Y: 15.125 Z: 30.750 uT
+2025-04-04 18:57:33,117 - Sensor Telemetry: Temperature: 31.72 C, Humidity: 31.66 %, Pressure: 1006.57 hPa, Gas Resistance: 21476.00 ohms, Altitude: 55.77 meters, Displacment: 0.03 meters
+2025-04-04 18:57:33,117 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:33,826 - IMU Telemetry: Acceleration: X: -0.125 Y: -9.934 Z: 0.098 m/s², Gyroscope: X: 0.000 Y: 0.000 Z: 0.000 rad/s, Magnetometer: X: -28.250 Y: 15.500 Z: 30.125 uT
+2025-04-04 18:57:33,826 - Sensor Telemetry: Temperature: 31.75 C, Humidity: 31.57 %, Pressure: 1006.57 hPa, Gas Resistance: 22448.00 ohms, Altitude: 55.76 meters, Displacment: 0.01 meters
+2025-04-04 18:57:33,826 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:34,539 - IMU Telemetry: Acceleration: X: -0.125 Y: -9.934 Z: 0.098 m/s², Gyroscope: X: 0.000 Y: 0.000 Z: 0.002 rad/s, Magnetometer: X: -28.375 Y: 15.375 Z: 31.312 uT
+2025-04-04 18:57:34,539 - Sensor Telemetry: Temperature: 31.78 C, Humidity: 31.46 %, Pressure: 1006.57 hPa, Gas Resistance: 23620.00 ohms, Altitude: 55.73 meters, Displacment: -0.01 meters
+2025-04-04 18:57:34,539 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:35,247 - IMU Telemetry: Acceleration: X: -0.125 Y: -9.934 Z: 0.098 m/s², Gyroscope: X: -0.002 Y: -0.002 Z: 0.000 rad/s, Magnetometer: X: -28.062 Y: 14.938 Z: 30.125 uT
+2025-04-04 18:57:35,248 - Sensor Telemetry: Temperature: 31.81 C, Humidity: 31.40 %, Pressure: 1006.58 hPa, Gas Resistance: 24362.00 ohms, Altitude: 55.71 meters, Displacment: -0.04 meters
+2025-04-04 18:57:35,248 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:35,961 - IMU Telemetry: Acceleration: X: -0.125 Y: -9.934 Z: 0.098 m/s², Gyroscope: X: 0.000 Y: 0.000 Z: 0.000 rad/s, Magnetometer: X: -29.000 Y: 14.875 Z: 33.062 uT
+2025-04-04 18:57:35,962 - Sensor Telemetry: Temperature: 31.83 C, Humidity: 31.33 %, Pressure: 1006.58 hPa, Gas Resistance: 25063.00 ohms, Altitude: 55.69 meters, Displacment: -0.06 meters
+2025-04-04 18:57:35,962 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:36,669 - IMU Telemetry: Acceleration: X: -0.125 Y: -9.934 Z: 0.098 m/s², Gyroscope: X: 0.000 Y: 0.000 Z: 0.000 rad/s, Magnetometer: X: -28.188 Y: 16.188 Z: 28.375 uT
+2025-04-04 18:57:36,669 - Sensor Telemetry: Temperature: 31.85 C, Humidity: 31.26 %, Pressure: 1006.59 hPa, Gas Resistance: 25605.00 ohms, Altitude: 55.60 meters, Displacment: -0.14 meters
+2025-04-04 18:57:36,670 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:37,380 - IMU Telemetry: Acceleration: X: -0.125 Y: -9.934 Z: 0.098 m/s², Gyroscope: X: 0.000 Y: 0.000 Z: 0.000 rad/s, Magnetometer: X: -27.875 Y: 15.625 Z: 29.562 uT
+2025-04-04 18:57:37,381 - Sensor Telemetry: Temperature: 31.86 C, Humidity: 31.21 %, Pressure: 1006.59 hPa, Gas Resistance: 26202.00 ohms, Altitude: 55.59 meters, Displacment: -0.16 meters
+2025-04-04 18:57:37,381 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:38,092 - IMU Telemetry: Acceleration: X: -0.125 Y: -9.934 Z: 0.137 m/s², Gyroscope: X: 0.000 Y: 0.000 Z: 0.000 rad/s, Magnetometer: X: -28.500 Y: 15.688 Z: 30.125 uT
+2025-04-04 18:57:38,092 - Sensor Telemetry: Temperature: 31.88 C, Humidity: 31.16 %, Pressure: 1006.59 hPa, Gas Resistance: 26594.00 ohms, Altitude: 55.62 meters, Displacment: -0.12 meters
+2025-04-04 18:57:38,093 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:38,800 - IMU Telemetry: Acceleration: X: -0.086 Y: -9.934 Z: 0.098 m/s², Gyroscope: X: 0.000 Y: 0.000 Z: 0.000 rad/s, Magnetometer: X: -29.125 Y: 15.062 Z: 29.250 uT
+2025-04-04 18:57:38,801 - Sensor Telemetry: Temperature: 31.89 C, Humidity: 31.13 %, Pressure: 1006.59 hPa, Gas Resistance: 27032.00 ohms, Altitude: 55.61 meters, Displacment: -0.14 meters
+2025-04-04 18:57:38,804 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:39,514 - IMU Telemetry: Acceleration: X: -0.047 Y: -9.930 Z: 0.441 m/s², Gyroscope: X: 0.000 Y: -0.002 Z: 0.000 rad/s, Magnetometer: X: -29.062 Y: 14.938 Z: 31.500 uT
+2025-04-04 18:57:39,514 - Sensor Telemetry: Temperature: 31.90 C, Humidity: 31.07 %, Pressure: 1006.59 hPa, Gas Resistance: 27574.00 ohms, Altitude: 55.60 meters, Displacment: -0.14 meters
+2025-04-04 18:57:39,515 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:40,222 - IMU Telemetry: Acceleration: X: 0.027 Y: -9.973 Z: 0.711 m/s², Gyroscope: X: -0.041 Y: 0.100 Z: -0.014 rad/s, Magnetometer: X: -28.312 Y: 15.812 Z: 29.062 uT
+2025-04-04 18:57:40,222 - Sensor Telemetry: Temperature: 31.92 C, Humidity: 31.06 %, Pressure: 1006.59 hPa, Gas Resistance: 27844.00 ohms, Altitude: 55.63 meters, Displacment: -0.12 meters
+2025-04-04 18:57:40,222 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:40,933 - IMU Telemetry: Acceleration: X: 0.562 Y: -9.891 Z: 0.863 m/s², Gyroscope: X: 0.008 Y: 0.029 Z: -0.109 rad/s, Magnetometer: X: -30.812 Y: 21.812 Z: 31.625 uT
+2025-04-04 18:57:40,934 - Sensor Telemetry: Temperature: 31.93 C, Humidity: 31.03 %, Pressure: 1006.58 hPa, Gas Resistance: 28082.00 ohms, Altitude: 55.65 meters, Displacment: -0.09 meters
+2025-04-04 18:57:40,934 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:41,644 - IMU Telemetry: Acceleration: X: 0.488 Y: -9.891 Z: 0.789 m/s², Gyroscope: X: -0.082 Y: -0.059 Z: 0.068 rad/s, Magnetometer: X: -28.875 Y: 26.688 Z: 31.812 uT
+2025-04-04 18:57:41,645 - Sensor Telemetry: Temperature: 31.94 C, Humidity: 31.02 %, Pressure: 1006.57 hPa, Gas Resistance: 28609.00 ohms, Altitude: 55.73 meters, Displacment: -0.02 meters
+2025-04-04 18:57:41,645 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:42,355 - IMU Telemetry: Acceleration: X: 0.449 Y: -9.930 Z: 0.441 m/s², Gyroscope: X: -0.098 Y: -0.072 Z: 0.021 rad/s, Magnetometer: X: -28.000 Y: 30.250 Z: 35.625 uT
+2025-04-04 18:57:42,355 - Sensor Telemetry: Temperature: 31.95 C, Humidity: 31.01 %, Pressure: 1006.57 hPa, Gas Resistance: 28861.00 ohms, Altitude: 55.73 meters, Displacment: -0.02 meters
+2025-04-04 18:57:42,356 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:43,065 - IMU Telemetry: Acceleration: X: 0.371 Y: -10.051 Z: 0.441 m/s², Gyroscope: X: -0.057 Y: -0.053 Z: 0.006 rad/s, Magnetometer: X: -29.688 Y: 28.812 Z: 40.438 uT
+2025-04-04 18:57:43,066 - Sensor Telemetry: Temperature: 31.96 C, Humidity: 30.99 %, Pressure: 1006.57 hPa, Gas Resistance: 29038.00 ohms, Altitude: 55.78 meters, Displacment: 0.03 meters
+2025-04-04 18:57:43,066 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:43,774 - IMU Telemetry: Acceleration: X: 0.602 Y: -9.969 Z: 0.137 m/s², Gyroscope: X: 0.008 Y: -0.025 Z: -0.061 rad/s, Magnetometer: X: -28.312 Y: 29.812 Z: 37.375 uT
+2025-04-04 18:57:43,774 - Sensor Telemetry: Temperature: 31.97 C, Humidity: 30.98 %, Pressure: 1006.56 hPa, Gas Resistance: 29357.00 ohms, Altitude: 55.81 meters, Displacment: 0.06 meters
+2025-04-04 18:57:43,774 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:44,483 - IMU Telemetry: Acceleration: X: 0.562 Y: -9.820 Z: 0.250 m/s², Gyroscope: X: 0.006 Y: -0.006 Z: 0.027 rad/s, Magnetometer: X: -29.438 Y: 29.312 Z: 36.562 uT
+2025-04-04 18:57:44,483 - Sensor Telemetry: Temperature: 31.98 C, Humidity: 30.99 %, Pressure: 1006.56 hPa, Gas Resistance: 29725.00 ohms, Altitude: 55.82 meters, Displacment: 0.07 meters
+2025-04-04 18:57:44,488 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:45,197 - IMU Telemetry: Acceleration: X: 0.680 Y: -9.820 Z: 0.098 m/s², Gyroscope: X: 0.000 Y: 0.006 Z: -0.016 rad/s, Magnetometer: X: -29.312 Y: 28.812 Z: 37.188 uT
+2025-04-04 18:57:45,197 - Sensor Telemetry: Temperature: 31.99 C, Humidity: 30.99 %, Pressure: 1006.56 hPa, Gas Resistance: 29934.00 ohms, Altitude: 55.85 meters, Displacment: 0.10 meters
+2025-04-04 18:57:45,198 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:45,907 - IMU Telemetry: Acceleration: X: 0.910 Y: -9.891 Z: 0.176 m/s², Gyroscope: X: -0.002 Y: 0.004 Z: -0.002 rad/s, Magnetometer: X: -30.375 Y: 28.438 Z: 40.125 uT
+2025-04-04 18:57:45,908 - Sensor Telemetry: Temperature: 31.99 C, Humidity: 31.00 %, Pressure: 1006.56 hPa, Gas Resistance: 30082.00 ohms, Altitude: 55.83 meters, Displacment: 0.09 meters
+2025-04-04 18:57:45,908 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:46,618 - IMU Telemetry: Acceleration: X: 0.910 Y: -9.820 Z: 0.176 m/s², Gyroscope: X: 0.006 Y: 0.000 Z: 0.016 rad/s, Magnetometer: X: -30.438 Y: 28.125 Z: 40.125 uT
+2025-04-04 18:57:46,619 - Sensor Telemetry: Temperature: 32.00 C, Humidity: 31.02 %, Pressure: 1006.56 hPa, Gas Resistance: 30360.00 ohms, Altitude: 55.82 meters, Displacment: 0.07 meters
+2025-04-04 18:57:46,619 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:47,328 - IMU Telemetry: Acceleration: X: 0.871 Y: -9.859 Z: 0.215 m/s², Gyroscope: X: -0.035 Y: -0.064 Z: -0.008 rad/s, Magnetometer: X: -29.438 Y: 29.188 Z: 38.688 uT
+2025-04-04 18:57:47,329 - Sensor Telemetry: Temperature: 32.00 C, Humidity: 31.05 %, Pressure: 1006.56 hPa, Gas Resistance: 30382.00 ohms, Altitude: 55.82 meters, Displacment: 0.07 meters
+2025-04-04 18:57:47,329 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:48,037 - IMU Telemetry: Acceleration: X: 0.984 Y: -9.859 Z: 0.176 m/s², Gyroscope: X: 0.023 Y: -0.010 Z: 0.004 rad/s, Magnetometer: X: -29.625 Y: 29.062 Z: 40.375 uT
+2025-04-04 18:57:48,037 - Sensor Telemetry: Temperature: 32.01 C, Humidity: 31.05 %, Pressure: 1006.56 hPa, Gas Resistance: 30798.00 ohms, Altitude: 55.80 meters, Displacment: 0.05 meters
+2025-04-04 18:57:48,038 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:48,749 - IMU Telemetry: Acceleration: X: 0.984 Y: -9.863 Z: 0.215 m/s², Gyroscope: X: 0.004 Y: 0.008 Z: -0.016 rad/s, Magnetometer: X: -30.688 Y: 27.312 Z: 38.625 uT
+2025-04-04 18:57:48,749 - Sensor Telemetry: Temperature: 32.01 C, Humidity: 31.07 %, Pressure: 1006.56 hPa, Gas Resistance: 31067.00 ohms, Altitude: 55.85 meters, Displacment: 0.10 meters
+2025-04-04 18:57:48,749 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:49,458 - IMU Telemetry: Acceleration: X: 1.062 Y: -9.824 Z: 0.215 m/s², Gyroscope: X: -0.021 Y: 0.023 Z: -0.010 rad/s, Magnetometer: X: -30.875 Y: 27.938 Z: 41.312 uT
+2025-04-04 18:57:49,458 - Sensor Telemetry: Temperature: 32.02 C, Humidity: 31.06 %, Pressure: 1006.56 hPa, Gas Resistance: 31113.00 ohms, Altitude: 55.84 meters, Displacment: 0.09 meters
+2025-04-04 18:57:49,458 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:50,170 - IMU Telemetry: Acceleration: X: 1.141 Y: -9.824 Z: 0.059 m/s², Gyroscope: X: -0.021 Y: 0.002 Z: 0.023 rad/s, Magnetometer: X: -32.125 Y: 26.688 Z: 44.375 uT
+2025-04-04 18:57:50,170 - Sensor Telemetry: Temperature: 32.02 C, Humidity: 31.06 %, Pressure: 1006.56 hPa, Gas Resistance: 31387.00 ohms, Altitude: 55.80 meters, Displacment: 0.05 meters
+2025-04-04 18:57:50,175 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:50,882 - IMU Telemetry: Acceleration: X: 1.254 Y: -9.863 Z: 0.176 m/s², Gyroscope: X: 0.020 Y: -0.016 Z: -0.010 rad/s, Magnetometer: X: -31.500 Y: 27.062 Z: 39.875 uT
+2025-04-04 18:57:50,883 - Sensor Telemetry: Temperature: 32.02 C, Humidity: 31.07 %, Pressure: 1006.56 hPa, Gas Resistance: 31620.00 ohms, Altitude: 55.81 meters, Displacment: 0.06 meters
+2025-04-04 18:57:50,883 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:51,591 - IMU Telemetry: Acceleration: X: 1.215 Y: -9.891 Z: 0.176 m/s², Gyroscope: X: -0.006 Y: 0.025 Z: 0.006 rad/s, Magnetometer: X: -32.125 Y: 27.188 Z: 40.562 uT
+2025-04-04 18:57:51,591 - Sensor Telemetry: Temperature: 32.03 C, Humidity: 31.07 %, Pressure: 1006.57 hPa, Gas Resistance: 31691.00 ohms, Altitude: 55.78 meters, Displacment: 0.03 meters
+2025-04-04 18:57:51,592 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:52,303 - IMU Telemetry: Acceleration: X: 1.254 Y: -9.785 Z: 0.059 m/s², Gyroscope: X: -0.031 Y: -0.064 Z: -0.002 rad/s, Magnetometer: X: -31.938 Y: 25.500 Z: 40.688 uT
+2025-04-04 18:57:52,304 - Sensor Telemetry: Temperature: 32.03 C, Humidity: 31.07 %, Pressure: 1006.58 hPa, Gas Resistance: 32048.00 ohms, Altitude: 55.69 meters, Displacment: -0.05 meters
+2025-04-04 18:57:52,304 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:53,012 - IMU Telemetry: Acceleration: X: 1.484 Y: -9.934 Z: -0.168 m/s², Gyroscope: X: -0.025 Y: -0.047 Z: 0.041 rad/s, Magnetometer: X: -32.500 Y: 23.812 Z: 39.875 uT
+2025-04-04 18:57:53,013 - Sensor Telemetry: Temperature: 32.03 C, Humidity: 31.04 %, Pressure: 1006.58 hPa, Gas Resistance: 32290.00 ohms, Altitude: 55.66 meters, Displacment: -0.08 meters
+2025-04-04 18:57:53,013 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:53,724 - IMU Telemetry: Acceleration: X: 2.172 Y: -9.785 Z: -0.477 m/s², Gyroscope: X: 0.098 Y: -0.109 Z: 0.014 rad/s, Magnetometer: X: -29.875 Y: 21.750 Z: 35.750 uT
+2025-04-04 18:57:53,724 - Sensor Telemetry: Temperature: 32.03 C, Humidity: 31.04 %, Pressure: 1006.58 hPa, Gas Resistance: 32364.00 ohms, Altitude: 55.71 meters, Displacment: -0.04 meters
+2025-04-04 18:57:53,725 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:54,433 - IMU Telemetry: Acceleration: X: 1.980 Y: -9.508 Z: -0.555 m/s², Gyroscope: X: 0.041 Y: -0.078 Z: 0.098 rad/s, Magnetometer: X: -31.312 Y: 17.188 Z: 37.125 uT
+2025-04-04 18:57:54,433 - Sensor Telemetry: Temperature: 32.04 C, Humidity: 31.04 %, Pressure: 1006.57 hPa, Gas Resistance: 32487.00 ohms, Altitude: 55.73 meters, Displacment: -0.02 meters
+2025-04-04 18:57:54,433 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:55,142 - IMU Telemetry: Acceleration: X: 0.984 Y: -10.051 Z: 0.750 m/s², Gyroscope: X: -0.100 Y: -0.125 Z: -0.109 rad/s, Magnetometer: X: -24.500 Y: 18.375 Z: 28.000 uT
+2025-04-04 18:57:55,143 - Sensor Telemetry: Temperature: 32.04 C, Humidity: 31.04 %, Pressure: 1006.58 hPa, Gas Resistance: 32736.00 ohms, Altitude: 55.67 meters, Displacment: -0.07 meters
+2025-04-04 18:57:55,143 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:55,854 - IMU Telemetry: Acceleration: X: 0.680 Y: -9.859 Z: 0.863 m/s², Gyroscope: X: -0.062 Y: 0.002 Z: 0.018 rad/s, Magnetometer: X: -24.188 Y: 19.000 Z: 26.875 uT
+2025-04-04 18:57:55,855 - Sensor Telemetry: Temperature: 32.04 C, Humidity: 31.03 %, Pressure: 1006.59 hPa, Gas Resistance: 32913.00 ohms, Altitude: 55.57 meters, Displacment: -0.18 meters
+2025-04-04 18:57:55,855 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:56,564 - IMU Telemetry: Acceleration: X: -0.316 Y: -9.895 Z: -0.363 m/s², Gyroscope: X: 0.004 Y: 0.002 Z: 0.000 rad/s, Magnetometer: X: -24.062 Y: 19.312 Z: 23.500 uT
+2025-04-04 18:57:56,564 - Sensor Telemetry: Temperature: 32.04 C, Humidity: 31.05 %, Pressure: 1006.59 hPa, Gas Resistance: 33117.00 ohms, Altitude: 55.59 meters, Displacment: -0.15 meters
+2025-04-04 18:57:56,565 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:57,278 - IMU Telemetry: Acceleration: X: -0.164 Y: -9.934 Z: -0.055 m/s², Gyroscope: X: -0.008 Y: -0.002 Z: 0.002 rad/s, Magnetometer: X: -23.750 Y: 19.312 Z: 28.375 uT
+2025-04-04 18:57:57,278 - Sensor Telemetry: Temperature: 32.05 C, Humidity: 31.03 %, Pressure: 1006.59 hPa, Gas Resistance: 33169.00 ohms, Altitude: 55.56 meters, Displacment: -0.19 meters
+2025-04-04 18:57:57,279 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:57,985 - IMU Telemetry: Acceleration: X: -0.164 Y: -9.934 Z: -0.055 m/s², Gyroscope: X: 0.014 Y: 0.000 Z: -0.004 rad/s, Magnetometer: X: -23.000 Y: 19.938 Z: 25.438 uT
+2025-04-04 18:57:57,986 - Sensor Telemetry: Temperature: 32.05 C, Humidity: 31.03 %, Pressure: 1006.59 hPa, Gas Resistance: 33220.00 ohms, Altitude: 55.63 meters, Displacment: -0.12 meters
+2025-04-04 18:57:57,986 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:58,697 - IMU Telemetry: Acceleration: X: -0.086 Y: -9.930 Z: 0.176 m/s², Gyroscope: X: 0.004 Y: 0.002 Z: 0.002 rad/s, Magnetometer: X: -22.812 Y: 20.125 Z: 27.062 uT
+2025-04-04 18:57:58,698 - Sensor Telemetry: Temperature: 32.05 C, Humidity: 31.02 %, Pressure: 1006.59 hPa, Gas Resistance: 33455.00 ohms, Altitude: 55.57 meters, Displacment: -0.18 meters
+2025-04-04 18:57:58,698 - -----------------------------------------------------------------------------------------------
+2025-04-04 18:57:59,408 - IMU Telemetry: Acceleration: X: -0.086 Y: -9.934 Z: 0.137 m/s², Gyroscope: X: -0.002 Y: 0.002 Z: 0.000 rad/s, Magnetometer: X: -22.500 Y: 19.688 Z: 25.875 uT
+2025-04-04 18:57:59,409 - Sensor Telemetry: Temperature: 32.05 C, Humidity: 31.02 %, Pressure: 1006.59 hPa, Gas Resistance: 33560.00 ohms, Altitude: 55.59 meters, Displacment: -0.16 meters
+2025-04-04 18:57:59,409 - -----------------------------------------------------------------------------------------------

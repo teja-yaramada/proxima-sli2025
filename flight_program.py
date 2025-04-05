@@ -8,7 +8,6 @@ from solenoid import SolenoidController
 import logging
 from datetime import datetime
 
-displacement_target = 0.1
 collection_period = 2
 collection_range_maximum = 1
 collection_range_minimum = 0.1
@@ -46,17 +45,19 @@ def log_telemetry():
 
 def poll():
 
-    global plateau_count, plateau_threshold, displacement_target, collection_period, collection_range_maximum, collection_range_minimum, triggered
+    global plateau_count, plateau_threshold,  collection_period, collection_range_maximum, collection_range_minimum, triggered
 
-    if plateau_count >= plateau_threshold:
+    if plateau_count >= plateau_threshold and not triggered:
         sample()
         triggered = True
 
-    if sensor.calculate_displacement() <= collection_range_maximum and sensor.calculate_displacement() >= collection_range_maximum and (not triggered):
+    if sensor.calculate_displacement() <= collection_range_maximum and sensor.calculate_displacement() >= collection_range_minimum and (not triggered):
         plateau_count = plateau_count + 1
-        logging.info("Plateau Count: {plateau_count}")
+        logging.info(f"Plateau Count: {plateau_count}")
     else:
         plateau_count = 0
+
+    print(f"Plateau Count: {plateau_count}")
 
 
 def sample():
@@ -73,9 +74,9 @@ def sequential_execution():
     solenoid.deactivate()
     servo.set_speed(0)
 
-        # Run a continuous loop to log both IMU and sensor data
+    # Run a continuous loop to log both IMU and sensor data
     while True:
-            # Log both IMU and sensor telemetry data
+        # Log both IMU and sensor telemetry data
         log_telemetry()
         poll()
             
