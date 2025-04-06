@@ -4,7 +4,7 @@ import RPi.GPIO as GPIO
 import time
 
 SERVO_PIN = 18       # BCM pin number
-INITIAL_DUTY_CYCLE = 7.5  # The typical neutral value for a continuous servo
+INITIAL_DUTY_CYCLE = 6.85  # The typical neutral value for a continuous servo
 
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(SERVO_PIN, GPIO.OUT)

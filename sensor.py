@@ -124,13 +124,13 @@ if __name__ == "__main__":
 
     try:
         # Run the test function
-        # sensor.test()
+        sensor.test()
 
         # Optionally, read and log the data continuously
-        while True:
-            sensor.read_data()
-            print(sensor.to_string())  # Logging the sensor data
-            time.sleep(1)  # Read every second
+       # while True:
+        #    sensor.read_data()
+         #   print(sensor.to_string())  # Logging the sensor data
+          #  time.sleep(1)  # Read every second
 
     except KeyboardInterrupt:
         print("Program interrupted by user.")

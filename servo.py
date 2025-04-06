@@ -20,7 +20,7 @@ class Servo:
 
         # Set up PWM on the specified pin with the specified frequency
         self.pwm = GPIO.PWM(self.pin, self.frequency)
-        self.pwm.start(7.1)  # Start PWM with a 7.1% duty cycle (stop position)
+        self.pwm.start(6.9)  # Start PWM with a 7.1% duty cycle (stop position)
 
     def set_speed(self, speed):
         """
@@ -36,7 +36,7 @@ class Servo:
             speed = -1
 
         # Map the speed to a duty cycle range:
-        duty_cycle = 7.1 + (speed * 5)  # Maps -1 -> 2.5%, 0 -> 7.1%, 1 -> 12.5%
+        duty_cycle = 6.9 + (speed * 5)  # Maps -1 -> 2.5%, 0 -> 7.1%, 1 -> 12.5%
         self.pwm.ChangeDutyCycle(duty_cycle)
         print(f"Set speed to {speed}, Duty Cycle: {duty_cycle}%")
 
@@ -82,8 +82,10 @@ if __name__ == "__main__":
     try:
         # Run the test sequence to verify functionality
         # servo.run_continuously(speed=-1, duration=2)
-        servo.test()
-
+        # servo.test()
+        servo.run_continuously(speed=1, duration=2)
+        time.sleep(1)
+        servo.run_continuously(speed=-0.02,duration=10)
         # Optionally, run the servo at specific speeds
         # servo.run_continuously(1, duration=5)  # Full speed forward for 5 seconds
         # servo.run_continuously(-1, duration=5)  # Full speed reverse for 5 seconds

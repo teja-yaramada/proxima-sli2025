@@ -8,9 +8,9 @@ from solenoid import SolenoidController
 import logging
 from datetime import datetime
 
-collection_period = 2
-collection_range_maximum = 1
-collection_range_minimum = 0.1
+collection_period = 1
+collection_range_maximum = 300
+collection_range_minimum = 100
 plateau_count = 0
 plateau_threshold = 3
 triggered = False
@@ -80,7 +80,7 @@ def sequential_execution():
         log_telemetry()
         poll()
             
-        time.sleep(0.5)  # Wait before reading again
+        time.sleep(0.2)  # Wait before reading again
         #sample()
 
 def parallel_execution():
