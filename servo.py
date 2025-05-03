@@ -82,10 +82,10 @@ if __name__ == "__main__":
     try:
         # Run the test sequence to verify functionality
         # servo.run_continuously(speed=-1, duration=2)
-        # servo.test()
-        servo.run_continuously(speed=1, duration=2)
-        time.sleep(1)
-        servo.run_continuously(speed=-0.02,duration=10)
+        servo.test()
+        # servo.run_continuously(speed=1, duration=2)
+        # time.sleep(1)
+        # servo.run_continuously(speed=-0.02,duration=10)
         # Optionally, run the servo at specific speeds
         # servo.run_continuously(1, duration=5)  # Full speed forward for 5 seconds
         # servo.run_continuously(-1, duration=5)  # Full speed reverse for 5 seconds

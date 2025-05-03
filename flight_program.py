@@ -12,7 +12,7 @@ collection_period = 1
 collection_range_maximum = 300
 collection_range_minimum = 100
 plateau_count = 0
-plateau_threshold = 3
+plateau_threshold = 7
 triggered = False
 
 # Global objects for IMU and Sensor
